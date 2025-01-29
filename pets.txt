@@ -5,3 +5,6 @@ rook
 
 marlo
 coco
+
+moco
+loco
